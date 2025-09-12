@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://pastefy.app/zEcdizd8/raw"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptsz99/YAWI-LIBRARY/refs/heads/main/YAWILIBRARY"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GagDeveloper/YAWI-LIBRARY/refs/heads/main/SamScripts"))()
